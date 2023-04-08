@@ -1,5 +1,5 @@
 package Interface;
 
-public interface SportsCar extends Car{
-    public abstract void drift();
+public interface SportsCar extends Car {
+    void drift();
 }
