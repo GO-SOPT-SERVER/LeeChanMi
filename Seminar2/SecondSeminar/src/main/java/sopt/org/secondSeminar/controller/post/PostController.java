@@ -19,7 +19,7 @@ public class PostController {
     private final PostService postService;
 
     // 포스트 생성
-    @PostMapping("")
+    @PostMapping
     @ResponseBody
     public ResRegisterPost registerPost(@RequestBody ReqRegisterPost request){
         Long postId = postService.register(request);
