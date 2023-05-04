@@ -5,27 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b1e1b9b-1cc0-493f-a1b5-151ba5b07053" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractClass/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class/Avante.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class/Ferrari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class/Ferrari.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class/Morning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class/Morning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/SportsCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/SportsCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstSeminar/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstSeminar/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstSeminar/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstSeminar/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstSeminar/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstSeminar/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstSeminar/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstSeminar/src/main/java/sopt/org/firstSeminar/FirstSeminarApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstSeminar/src/main/java/sopt/org/firstSeminar/controller/TestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstSeminar/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstSeminar/src/test/java/sopt/org/firstSeminar/FirstSeminarApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Seminar 1/JavaOOPExample/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Seminar 1/JavaOOPExample/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Seminar 1/JavaOOPExample/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Seminar 1/JavaOOPExample/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Seminar 1/JavaOOPExample/JavaOOPExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Seminar 1/JavaOOPExample/src/AbstractClass/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Seminar 1/JavaOOPExample/src/Class/Avante.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Seminar 1/JavaOOPExample/src/Class/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Seminar 1/JavaOOPExample/src/Class/Ferrari.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Seminar 1/JavaOOPExample/src/Class/Morning.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Seminar 1/JavaOOPExample/src/Interface/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Seminar 1/JavaOOPExample/src/Interface/SportsCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Seminar 1/JavaOOPExample/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +89,8 @@
       <workItem from="1680923658774" duration="739000" />
       <workItem from="1680924423990" duration="17000" />
       <workItem from="1680924488387" duration="21000" />
+      <workItem from="1680933732921" duration="287000" />
+      <workItem from="1681459984281" duration="10000" />
     </task>
     <servers />
   </component>

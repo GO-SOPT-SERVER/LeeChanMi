@@ -51,7 +51,7 @@ public class PostController {
     // 포스트 제목 검색하기
     @GetMapping("/search")
     @ResponseBody
-    public ArrayList<ResGetPost> getPostById(@RequestParam String title) {
+    public ArrayList<ResGetPost> getPostByTitle(@RequestParam String title) {
         System.out.println("요청 포스트 제목 : " + title);
 
         ArrayList<ResGetPost> resGetPostsList = new ArrayList<>();
